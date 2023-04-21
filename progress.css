@@ -1,0 +1,61 @@
+.progress{
+  height: 300px;
+  width: 400px;
+  background-color: rgb(48, 44, 44);
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  position: absolute;
+}
+.p1{
+  position: absolute;
+  overflow: hidden;
+  height: 200px;
+  width: 35px;
+  top: 20%;
+  left: 15%;
+  background-color: yellow;
+  border-radius: 20px;
+}
+.p2{
+  position: absolute;
+  overflow: hidden;
+  height: 200px;
+  width: 35px;
+  top: 20%;
+  left: 30%;
+  background-color: purple;
+  border-radius: 20px;
+}
+.p3{
+  position: absolute;
+  overflow: hidden;
+  height: 200px;
+  width: 35px;
+  top: 20%;
+  left: 45%;
+  background-color: deepskyblue;
+  border-radius: 20px;
+}
+.p4{
+  position: absolute;
+  overflow: hidden;
+  height: 200px;
+  width: 35px;
+  top: 20%;
+  left: 60%;
+  background-color: antiquewhite;
+  border-radius: 20px;
+}
+.p5{
+  position: absolute;
+  overflow: hidden;
+  height: 200px;
+  width: 35px;
+  top: 20%;
+  left: 75%;
+  background-color: chartreuse;
+  border-radius: 20px;
+}
